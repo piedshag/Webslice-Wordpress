@@ -1,2 +1,2 @@
 # Webslice-Wordpress
-Test website for webslice
+Test website for webslice.
