@@ -1,2 +1,2 @@
 #!/bin/bash
-node oom.js
+node mem.js
