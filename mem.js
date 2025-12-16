@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 
 // Get target memory from command line (default to 512MB if not set)
-const targetMB = 2000;
+const targetMB = 4000;
 const chunkSizeMB = 10; 
 const chunks = [];
 
