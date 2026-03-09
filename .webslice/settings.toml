@@ -1,0 +1,2 @@
+[deploy.commands]
+build = "build.sh"
